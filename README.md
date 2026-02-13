@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Arjun Haldiya</h1>
+<h1 align="center">Hi, I'm Arjun Haldiya</h1>
 <h3 align="center">
-Full-Stack Developer • Software Engineer in the making
+Software Engineer • Data Science • Machine Learning   
 </h3>
 
 <p align="center">
-I build software that’s clean, scalable, and practical — and I enjoy learning by creating, breaking, and refactoring along the way.
+I try to build
 </p>
 
 ---
