@@ -9,49 +9,6 @@ I try to build
 
 ---
 
-### 🧠 About Me
-- Software engineering–focused developer with experience across **full-stack**, **backend**, and **ML-powered systems**
-- I enjoy turning dumb ideas into real, usable products
-- Strong believer in clean architecture, readable code, and thoughtful system design
-
----
-
-### 🔭 I’m Currently Working On
-- **MedicOCR** — an OCR-powered system for extracting and analyzing medical documents  
-  *(Python, OpenCV, ML, Backend APIs)*
-
----
-
-### 🌱 I’m Currently Learning
-- Data Structures & Algorithms  
-- Backend systems and scalability  
-- Integrating machine learning into production software  
-
----
-
-### 🛠️ How I Build
-- I believe in creating a MEP (Most Evolvable Product) instead of MVP
-- Always start by making the simplest, dumbest version of the idea.  
-
----
-
-### 🚀 Featured Projects
-- **MedicOCR** – OCR-based medical document analysis  
-- **Sage** – AI-assisted voice interview coach (React + Node + GenAI)  
-- **TrafficEye** – Computer vision–based traffic analysis system  
----
-
-### 📫 How to Reach Me
-- Email: **arjunhaldiya91@gmail.com**
-- LinkedIn: [linkedin.com/in/ahaldiya](https://linkedin.com/in/ahaldiya)
-
----
-
-### ⚡ Fun Fact
-I’m 6'3" — which means I hit my head on doorframes and bad abstractions equally often.
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahaldiya" target="_blank">
