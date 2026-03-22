@@ -4,10 +4,15 @@ Software Engineer • Data Science • Machine Learning
 </h3>
 
 <p align="center">
-I try to build
+I learn and build
 </p>
 
 ---
+
+<p align="center">
+Currently figuring out multi agent orchestration and autonomous agent deployment
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
