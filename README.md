@@ -6,8 +6,7 @@
 > B.S. Data Science @ SJSU | San Jose, CA
 
 ---
-![terminal](./assets/terminal-frame.svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=E6EDF3&background=0D1117FF&width=650&height=45&lines=Building+distributed+backend+systems+in+Go+%26+Python;Shipping+observability+stacks%3A+Prometheus+%C2%B7+Grafana+%C2%B7+Loki;Designing+agentic+pipelines+with+MCP+%26+LLM+orchestration;B.S.+Data+Science+%40+SJSU+%C2%B7+Open+to+internships;Reimplementing+IEEE+research%3A+LLM+multi-agent+financial+trading)](https://git.io/typing-svg)
+![terminal](./assets/terminal-complete.svg)
 ---
 
 ## Currently building
